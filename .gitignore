@@ -1,0 +1,9 @@
+# Exclude the venv directory
+venv/
+
+# Exclude cache and compiled files
+__pycache__/
+*.pyc
+
+# Exclude local SQLite DB if you want
+mood.db
